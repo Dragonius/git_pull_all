@@ -1,9 +1,9 @@
 
 # Git pull all gits 
 
-Git script pulls all from /home/kayttaja/Lataukset/Git and display % how much is done
+A script for Git retrieves all data from /home/kayttaja/Lataukset/Git and reveals the progress as a percentage. 
 
-and then list gits that dont have Not a Git repository
+It also compiles a list of Git repositories that do not qualify as valid repositories, displaying a "Not a Git repository" message for each.
 
 
 ## Authors
